@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30163330008",
+    "project_id": "yize-chatapp",
+    "storage_bucket": "yize-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30163330008:android:e4cf1b727ad94e0d0248ad",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30163330008-h6dvmqtqtjm4ogbmds6m6munikcco2f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxMc8y1FLaqX5QMyj9mHJb9ZqLHhO6MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30163330008-h6dvmqtqtjm4ogbmds6m6munikcco2f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
