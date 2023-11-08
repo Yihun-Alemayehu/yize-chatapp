@@ -35,7 +35,11 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue[400],
-        title: Center(child: Text("Yize")),
+        title: const Center(child: Text("Yize",
+        style: TextStyle(
+          letterSpacing: 2,
+          fontSize: 20,
+        ),)),
         actions: [
           //sign out button
           IconButton(

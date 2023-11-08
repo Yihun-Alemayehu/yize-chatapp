@@ -19,20 +19,10 @@ class SplashScreen extends StatelessWidget {
               color: Color.fromARGB(255, 226, 111, 3),
              ),
              ),
-
-         /* const SizedBox(height: 200,),
-
-          const Text(    
-            'Version 1.0',
-            style: TextStyle(
-              color: Colors.white
-            ),
-            ),*/
         ],
       ), 
       backgroundColor: Colors.black,
       nextScreen: const AuthPage(),
-      //splashIconSize: 150,
       );
   }
 }
